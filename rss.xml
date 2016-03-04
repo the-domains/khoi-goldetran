@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Portfolio]]></title>
         <description><![CDATA[Portfolio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/khoi-goldetran/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 05:51:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 05:54:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/khoi-goldetran/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SESAME GIFTS]]></title>
+            <description><![CDATA[<article><h1>SESAME GIFTS</h1><p>A curated gifting app with a focus on a selection of gift sets that are thoughtful and an unboxing that will wow your lucky recipient. Our goal was to create an easy way to browse through and select a gift within our ever growing catalogue of curated gifts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/195881389e3a819d45fcc0dc5c9aa37bd485025b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/khoi-goldetran/41b54aba-f2cd-4905-820a-34f522ebc896/index.html</link>
+            <guid isPermaLink="false">41b54aba-f2cd-4905-820a-34f522ebc896</guid>
+            <pubDate>Fri, 04 Mar 2016 05:53:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/80430412-5909-40e8-87a8-4ae8817b4424.jpg">]]></description>
-            <link>undefined97c5729d-642d-477f-87ee-0b9d9df31c30/index.html</link>
+            <link>https://thegrid.ai/khoi-goldetran/97c5729d-642d-477f-87ee-0b9d9df31c30/index.html</link>
             <guid isPermaLink="false">97c5729d-642d-477f-87ee-0b9d9df31c30</guid>
             <pubDate>Fri, 04 Mar 2016 05:49:36 GMT</pubDate>
         </item>
